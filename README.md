@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Implementation with Minimax Algorithm
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 ### Tic-Tac-Toe Üzerinde Minimax Algoritması Gerçeklemesi
 
@@ -29,7 +29,7 @@ Bu nedenle Minimax algoritmasını kullanan bot **teorik olarak yenilmezdir** ve
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Tic-Tac-Toe Implementation with Minimax Algorithm
 
