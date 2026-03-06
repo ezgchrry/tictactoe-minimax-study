@@ -1,7 +1,3 @@
-# Tic-Tac-Toe Implementation with Minimax Algorithm
-
-## Türkçe
-
 ### Tic-Tac-Toe Üzerinde Minimax Algoritması Gerçeklemesi
 
 Bu çalışma, **Yapay Zeka dersinde graflar ve durum uzayı (state space)** konularını çalışırken teorik kavramların kod üzerindeki karşılığını görmek amacıyla hazırlanmıştır.
@@ -28,8 +24,6 @@ Tic-Tac-Toe oyununun durum uzayı küçük olduğu için bilgisayar **tüm ihtim
 Bu nedenle Minimax algoritmasını kullanan bot **teorik olarak yenilmezdir** ve en kötü ihtimalle oyunu **berabere bitirir**.
 
 ---
-
-## English
 
 ### Tic-Tac-Toe Implementation with Minimax Algorithm
 
